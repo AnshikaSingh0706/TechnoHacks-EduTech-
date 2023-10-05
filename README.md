@@ -1,2 +1,2 @@
 # TechnoHacks-EduTech-
-Rock, Paper, Scissor Game using Java Programming
+Tasks using Java Programming
